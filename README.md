@@ -96,23 +96,11 @@ cd iframe-redirect
 ### Method 2: Download Files
 
 1. Download the following files from this repository:
-   - `index.html` (main page with iframe)
-   - `redirect-handler.js` (core redirect logic)
+   - `index.html` (main page with iframe)*
+   - `redirect-handler.js` (core redirect logic)*
    - `manual-redirect-button.html` (optional: version with manual button)
    
 2. Upload to your web server
-
-### Method 3: CDN (Coming Soon)
-
-```html
-<script src="https://cdn.jsdelivr.net/gh/yourusername/iframe-redirect@latest/redirect-handler.js"></script>
-```
-
-### Method 4: NPM (Coming Soon)
-
-```bash
-npm install iframe-redirect-handler
-```
 
 ## Quick Start
 
